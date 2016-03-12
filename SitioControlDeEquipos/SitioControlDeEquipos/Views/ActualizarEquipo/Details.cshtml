@@ -1,0 +1,79 @@
+﻿@model SitioControlDeEquipos.Models.Equipo
+
+@{
+    ViewBag.Title = "Lista de registros";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Datos del registro</h2>
+
+<fieldset>
+    <legend></legend>
+
+    <div class="display-label">
+         <b>Codigo :</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.codigo_equipo)
+    </div>
+
+    <div class="display-label">
+         <b>Marca</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.marca)
+    </div>
+
+    <div class="display-label">
+        <b>Modelo</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.modelo)
+    </div>
+
+    <div class="display-label">
+        <b>Numero serie:</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.numero_serie)
+    </div>
+
+    @*<div class="display-label">
+         @Html.DisplayNameFor(model => model.fecha_compra)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.fecha_compra)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.periodo_garantia)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.periodo_garantia)
+    </div>*@
+
+    <div class="display-label">
+        <b>Descripcion:</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.descripcion)
+    </div>
+
+    <div class="display-label">
+        <b>Responsable:</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.responsable)
+    </div>
+
+    <div class="display-label">
+        <b>Ubicacion:</b>
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ubicacion)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Edit", new {  id=Model.codigo_equipo  }) |
+    @Html.ActionLink("Regresar a la lista", "Index")
+</p>

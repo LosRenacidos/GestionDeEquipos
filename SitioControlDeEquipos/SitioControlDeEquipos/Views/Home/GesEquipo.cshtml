@@ -1,0 +1,148 @@
+﻿@{
+    ViewBag.Title = "Gestión de Equipos";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+ 
+</hgroup>
+<section class="contact">
+    
+    <p>
+        
+        <span><input type="button" value="Registrar Equipo"></span>
+        
+    </p>
+
+</section>
+
+<section class="contact">
+    @*<header>
+            <h3>Email</h3>
+        </header>
+        <p>
+            <span class="label">Support:</span>
+            <span><a href="mailto:Support@example.com">Support@example.com</a></span>
+        </p>
+        <p>
+            <span class="label">Marketing:</span>
+            <span><a href="mailto:Marketing@example.com">Marketing@example.com</a></span>
+        </p>
+        <p>
+            <span class="label">General:</span>
+            <span><a href="mailto:General@example.com">General@example.com</a></span>
+
+        </p>*@
+    <header>
+        <center> <h3>Lista de Equipos</h3></center>
+    </header>
+    <div class="CSSTableGenerator">
+        <table border="1" align="center" style="{color:#000000;}">
+            <tr>
+                <td>
+                    <b>
+                        Codigo
+                    </b>
+                <td>
+                    <b> Marca</b>
+                </td>
+                <td>
+                    <b>Serie</b>
+                </td>
+                <td>
+                    <b>Descripcion</b>
+                </td>
+                <td>
+                    <b>Responsable</b>
+                </td>
+                <td>
+                    <b>Ubicacion</b>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    AV0201
+                </td>
+                <td>
+                    DELL OPTIPLEX 9020
+                </td>
+                <td>
+                    11/04/2015
+                </td>
+                <td>
+                    SODIMAC S.A
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    AV0202
+                </td>
+                <td>
+                    HP PRODESK 600 G
+                </td>
+                <td>
+                    11/03/2015
+                </td>
+                <td>
+                    TOTTUS SA
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    AV0203
+                </td>
+                <td>
+                    DELL OPTIPLEX 9020
+                </td>
+                <td>
+                    14/08/2015
+                </td>
+                <td>
+                    CEMBF S.A
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+            </tr>
+
+        </table>
+    </div>
+
+</section>
+<section class="contact">
+    <header>
+        <h3></h3>
+    </header>
+
+    <center>
+        <p>
+
+            <input type="button" value="Guardar">
+
+            <input type="button" value="Salir">
+        </p>
+    </center>
+
+    <div>
+        @Html.ActionLink("Regresar al inicio", "Index")
+    </div>
+
+</section>

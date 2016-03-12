@@ -1,0 +1,140 @@
+﻿@{
+    ViewBag.Title = "LISTA DE AVERIA";
+}
+
+<hgroup class="title">
+    <center><h1>@ViewBag.Title.</h1></center>
+
+</hgroup>
+
+<section class="contact">
+    <header>
+       <h3></h3>
+    </header>
+    <p>
+        <span class="label">Fecha de Registro:</span>
+        <span><input type="date" name="fechaRegistro"></span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="label">Equipo:</span>
+        <span><input type="text" name="nombreRegistro"></span>
+    </p>
+  
+</section>
+
+<section class="contact">
+    @*<header>
+        <h3>Email</h3>
+    </header>
+    <p>
+        <span class="label">Support:</span>
+        <span><a href="mailto:Support@example.com">Support@example.com</a></span>
+    </p>
+    <p>
+        <span class="label">Marketing:</span>
+        <span><a href="mailto:Marketing@example.com">Marketing@example.com</a></span>
+    </p>
+    <p>
+        <span class="label">General:</span>
+        <span><a href="mailto:General@example.com">General@example.com</a></span>
+
+    </p>*@
+
+    <div class="CSSTableGenerator">
+        <table border="1" align="center" style="{color:#000000;}">
+            <tr>
+                <td>
+                    <b>
+                        ID
+                    </b>
+                <td>
+                    <b> EQUIPO</b>
+                </td>
+                <td>
+                    <b>FECHA DE REGISTRO</b>
+                </td>
+                <td>
+                    <b> PROVEEDOR</b>
+                </td>
+                <td>
+                    <b>ESTADO</b>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    AV0201
+                </td>
+                <td>
+                    DELL OPTIPLEX 9020
+                </td>
+                <td>
+                    11/04/2015
+                </td>
+                <td>
+                    SODIMAC S.A
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    AV0202
+                </td>
+                <td>
+                    HP PRODESK 600 G
+                </td>
+                <td>
+                    11/03/2015
+                </td>
+                <td>
+                    TOTTUS SA
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    AV0203
+                </td>
+                <td>
+                    DELL OPTIPLEX 9020
+                </td>
+                <td>
+                    14/08/2015
+                </td>
+                <td>
+                    CEMBF S.A
+                </td>
+                <td>
+                    ABIERTO
+                </td>
+            </tr>
+
+        </table>
+    </div>
+
+</section>
+
+<section class="contact">
+    <br />
+    <br />
+    <br />
+    <header>
+        <h3></h3>
+    </header>
+    <center><p>
+        <input type="button" value="Nuevo">
+        <input type="button" value="Modificar">
+        <input type="button" value="Consultar">
+        <input type="button" value="Eliminar">
+        <input type="button" value="Salir">
+    </p></center>
+    <div>
+        @Html.ActionLink("Regresar al inicio", "Index")
+    </div>
+
+</section>
