@@ -1,0 +1,12 @@
+E:\DSD\proyecto\Test\bin\Debug\Test.dll.config
+E:\DSD\proyecto\Test\bin\Debug\Test.dll
+E:\DSD\proyecto\Test\bin\Debug\Test.pdb
+E:\DSD\proyecto\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\DSD\proyecto\Test\obj\Debug\Test.dll
+E:\DSD\proyecto\Test\obj\Debug\Test.pdb
+F:\Escritorio\DSD\DSD\proyecto\Test\bin\Debug\Test.dll.config
+F:\Escritorio\DSD\DSD\proyecto\Test\bin\Debug\Test.dll
+F:\Escritorio\DSD\DSD\proyecto\Test\bin\Debug\Test.pdb
+F:\Escritorio\DSD\DSD\proyecto\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Escritorio\DSD\DSD\proyecto\Test\obj\Debug\Test.dll
+F:\Escritorio\DSD\DSD\proyecto\Test\obj\Debug\Test.pdb

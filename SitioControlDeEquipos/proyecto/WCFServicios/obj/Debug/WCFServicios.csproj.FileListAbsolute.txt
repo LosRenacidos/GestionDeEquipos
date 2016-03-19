@@ -1,0 +1,12 @@
+E:\DSD\proyecto\WCFServicios\bin\WCFServicios.dll.config
+E:\DSD\proyecto\WCFServicios\bin\WCFServicios.dll
+E:\DSD\proyecto\WCFServicios\bin\WCFServicios.pdb
+E:\DSD\proyecto\WCFServicios\obj\Debug\WCFServicios.csprojResolveAssemblyReference.cache
+E:\DSD\proyecto\WCFServicios\obj\Debug\WCFServicios.dll
+E:\DSD\proyecto\WCFServicios\obj\Debug\WCFServicios.pdb
+F:\Escritorio\DSD\DSD\proyecto\WCFServicios\bin\WCFServicios.dll.config
+F:\Escritorio\DSD\DSD\proyecto\WCFServicios\bin\WCFServicios.dll
+F:\Escritorio\DSD\DSD\proyecto\WCFServicios\bin\WCFServicios.pdb
+F:\Escritorio\DSD\DSD\proyecto\WCFServicios\obj\Debug\WCFServicios.csprojResolveAssemblyReference.cache
+F:\Escritorio\DSD\DSD\proyecto\WCFServicios\obj\Debug\WCFServicios.dll
+F:\Escritorio\DSD\DSD\proyecto\WCFServicios\obj\Debug\WCFServicios.pdb
