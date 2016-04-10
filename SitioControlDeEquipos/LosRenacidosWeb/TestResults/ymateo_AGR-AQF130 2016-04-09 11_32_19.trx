@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6870baa2-26a8-47c3-b3c8-491b7b20eb13" name="ymateo@AGR-AQF130 2016-04-09 11:32:19" runUser="AGR-DOMAIN\ymateo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configuración de pruebas predeterminada" id="c259c5a7-df36-4239-ab89-1dcc9e8a6cbd">
+    <Deployment runDeploymentRoot="ymateo_AGR-AQF130 2016-04-09 11_32_19">
+      <DeploymentItem filename="F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\bin\GestionEquipoWeb.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-09T11:32:19.0027749-05:00" queuing="2016-04-09T11:32:21.3177783-05:00" start="2016-04-09T11:32:21.3177783-05:00" finish="2016-04-09T11:32:21.9587815-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="confirmarReparacionAveriaTest" storage="f:\upc\septimo ciclo\dsd\avancefinal\avance2\losrenacidosweb\gestionequipoweb.tests\bin\debug\gestionequipoweb.tests.dll" id="595f6dff-980f-e30d-6b3e-a78c5454d485">
+      <Execution id="10074951-4926-4c8e-93f0-b92827119a86" />
+      <TestMethod codeBase="F:/UPC/Septimo Ciclo/DSD/AvanceFinal/Avance2/LosRenacidosWeb/GestionEquipoWeb.Tests/bin/Debug/GestionEquipoWeb.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionEquipoWeb.Tests.TestGestion, GestionEquipoWeb.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="confirmarReparacionAveriaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="595f6dff-980f-e30d-6b3e-a78c5454d485" executionId="10074951-4926-4c8e-93f0-b92827119a86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="10074951-4926-4c8e-93f0-b92827119a86" testId="595f6dff-980f-e30d-6b3e-a78c5454d485" testName="confirmarReparacionAveriaTest" computerName="AGR-AQF130" duration="00:00:00.4363385" startTime="2016-04-09T11:32:21.3277783-05:00" endTime="2016-04-09T11:32:21.9427806-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10074951-4926-4c8e-93f0-b92827119a86">
+      <Output>
+        <ErrorInfo>
+          <Message>Error de Assert.AreEqual. Se esperaba &lt;3&gt;, pero es &lt;1&gt;. </Message>
+          <StackTrace>   en GestionEquipoWeb.Tests.TestGestion.confirmarReparacionAveriaTest() en F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\TestGestion.cs:línea 333
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

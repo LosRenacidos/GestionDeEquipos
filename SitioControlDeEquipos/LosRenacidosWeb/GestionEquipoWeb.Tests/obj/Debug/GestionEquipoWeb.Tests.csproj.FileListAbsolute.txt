@@ -1,0 +1,16 @@
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.Tests.dll.config
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.Tests.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.Tests.pdb
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.pdb
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\obj\Debug\GestionEquipoWeb.Tests.csprojResolveAssemblyReference.cache
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\obj\Debug\GestionEquipoWeb.Tests.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb.Tests\obj\Debug\GestionEquipoWeb.Tests.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.Tests.dll.config
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.Tests.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.Tests.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\bin\Debug\GestionEquipoWeb.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\obj\Debug\ResolveAssemblyReference.cache
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\obj\Debug\GestionEquipoWeb.Tests.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\obj\Debug\GestionEquipoWeb.Tests.pdb

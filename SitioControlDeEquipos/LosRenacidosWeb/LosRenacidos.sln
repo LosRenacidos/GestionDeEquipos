@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionEquipoWeb", "GestionEquipoWeb\GestionEquipoWeb.csproj", "{8D12C741-E75B-478E-8C5C-A97424A9070E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionEquipoWeb.Tests", "GestionEquipoWeb.Tests\GestionEquipoWeb.Tests.csproj", "{44ACD3D7-03D2-485D-B594-AF89ACCD7AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestCrudFull", "..\WCFRestCrud\RestCrudFull\RestCrudFull.csproj", "{B9B19EEB-8AB6-416F-AC62-42708398614E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D12C741-E75B-478E-8C5C-A97424A9070E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D12C741-E75B-478E-8C5C-A97424A9070E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D12C741-E75B-478E-8C5C-A97424A9070E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D12C741-E75B-478E-8C5C-A97424A9070E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44ACD3D7-03D2-485D-B594-AF89ACCD7AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44ACD3D7-03D2-485D-B594-AF89ACCD7AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44ACD3D7-03D2-485D-B594-AF89ACCD7AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44ACD3D7-03D2-485D-B594-AF89ACCD7AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B19EEB-8AB6-416F-AC62-42708398614E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B19EEB-8AB6-416F-AC62-42708398614E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B19EEB-8AB6-416F-AC62-42708398614E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B19EEB-8AB6-416F-AC62-42708398614E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="84609564-218b-4359-af0f-64a55eb336f5" name="ymateo@AGR-AQF130 2016-04-09 05:27:23" runUser="AGR-DOMAIN\ymateo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configuración de pruebas predeterminada" id="e3b1245e-94d8-4c81-87e7-2b9487037ffb">
+    <Deployment runDeploymentRoot="ymateo_AGR-AQF130 2016-04-09 05_27_23">
+      <DeploymentItem filename="F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\bin\GestionEquipoWeb.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-09T05:27:23.6062335-05:00" queuing="2016-04-09T05:27:25.4970444-05:00" start="2016-04-09T05:27:25.5020439-05:00" finish="2016-04-09T05:27:27.7628178-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="confirmarReparacionAveriaTest" storage="f:\upc\septimo ciclo\dsd\avancefinal\avance2\losrenacidosweb\gestionequipoweb.tests\bin\debug\gestionequipoweb.tests.dll" id="595f6dff-980f-e30d-6b3e-a78c5454d485">
+      <Execution id="f78801f4-a6f5-4b1e-a025-f8efb2288d53" />
+      <TestMethod codeBase="F:/UPC/Septimo Ciclo/DSD/AvanceFinal/Avance2/LosRenacidosWeb/GestionEquipoWeb.Tests/bin/Debug/GestionEquipoWeb.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionEquipoWeb.Tests.TestGestion, GestionEquipoWeb.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="confirmarReparacionAveriaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="595f6dff-980f-e30d-6b3e-a78c5454d485" executionId="f78801f4-a6f5-4b1e-a025-f8efb2288d53" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f78801f4-a6f5-4b1e-a025-f8efb2288d53" testId="595f6dff-980f-e30d-6b3e-a78c5454d485" testName="confirmarReparacionAveriaTest" computerName="AGR-AQF130" duration="00:00:02.0611909" startTime="2016-04-09T05:27:25.5040437-05:00" endTime="2016-04-09T05:27:27.7348206-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f78801f4-a6f5-4b1e-a025-f8efb2288d53">
+      <Output>
+        <ErrorInfo>
+          <Message>El método de prueba GestionEquipoWeb.Tests.TestGestion.confirmarReparacionAveriaTest produjo la excepción: 
+System.Net.WebException: No es posible conectar con el servidor remoto ---&gt; System.Net.Sockets.SocketException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:41782</Message>
+          <StackTrace>    en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket&amp; socket, IPAddress&amp; address, ConnectSocketState state, IAsyncResult asyncResult, Int32 timeout, Exception&amp; exception)
+ --- Fin del seguimiento de la pila de la excepción interna ---
+    en System.Net.HttpWebRequest.GetRequestStream(TransportContext&amp; context)
+   en System.Net.HttpWebRequest.GetRequestStream()
+   en GestionEquipoWeb.Tests.TestGestion.confirmarReparacionAveriaTest() en F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\TestGestion.cs:línea 326
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

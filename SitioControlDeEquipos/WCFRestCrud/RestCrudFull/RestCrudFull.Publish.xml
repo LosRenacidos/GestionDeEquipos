@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\WSCServices\Rest" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/MyRest" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="RestFullprf" publishMethod="FileSystem" replaceMatchingFiles="False" userName="ymateo" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Iesi.Collections.dll" publishTime="04/01/2016 16:51:36" />
+    <file relUrl="Librerias/NHibernate.dll" publishTime="04/01/2016 16:51:36" />
+    <file relUrl="bin/RestCrudFull.dll" publishTime="04/02/2016 03:23:55" />
+    <file relUrl="Web.config" publishTime="04/02/2016 03:25:10" />
+    <file relUrl="Averias.svc" publishTime="04/01/2016 17:32:13" />
+    <file relUrl="bin/RestCrudFull.pdb" publishTime="04/02/2016 03:23:55" />
+    <file relUrl="bin/NHibernate.dll" publishTime="04/01/2016 16:51:36" />
+    <file relUrl="Librerias/Iesi.Collections.dll" publishTime="04/01/2016 16:51:36" />
+  </publishProfile>
+</publishData>

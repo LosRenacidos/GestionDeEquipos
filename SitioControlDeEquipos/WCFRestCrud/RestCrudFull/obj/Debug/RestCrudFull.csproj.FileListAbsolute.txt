@@ -1,0 +1,15 @@
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\obj\Debug\RestCrudFull.csprojResolveAssemblyReference.cache
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\bin\RestCrudFull.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\bin\RestCrudFull.pdb
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\bin\Iesi.Collections.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\bin\NHibernate.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\obj\Debug\RestCrudFull.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\WCFRestCrud\RestCrudFull\obj\Debug\RestCrudFull.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\bin\RestCrudFull.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\bin\RestCrudFull.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\bin\Iesi.Collections.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\bin\NHibernate.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\obj\Debug\ResolveAssemblyReference.cache
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\obj\Debug\RestCrudFull.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\obj\Debug\RestCrudFull.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\WCFRestCrud\RestCrudFull\bin\RestCrudFull.dll.config

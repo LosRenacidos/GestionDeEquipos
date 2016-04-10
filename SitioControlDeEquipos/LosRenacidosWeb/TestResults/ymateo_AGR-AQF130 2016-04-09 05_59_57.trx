@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="81c641d6-dd72-49ac-b4b5-adf05c81af5a" name="ymateo@AGR-AQF130 2016-04-09 05:59:57" runUser="AGR-DOMAIN\ymateo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configuración de pruebas predeterminada" id="fa078179-c6ed-4f5d-87c1-d91bd5267eb2">
+    <Deployment runDeploymentRoot="ymateo_AGR-AQF130 2016-04-09 05_59_57">
+      <DeploymentItem filename="F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\bin\GestionEquipoWeb.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-09T05:59:57.7429914-05:00" queuing="2016-04-09T05:59:59.5829914-05:00" start="2016-04-09T05:59:59.5829914-05:00" finish="2016-04-09T06:00:00.2029914-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="asignarAveriaTest" storage="f:\upc\septimo ciclo\dsd\avancefinal\avance2\losrenacidosweb\gestionequipoweb.tests\bin\debug\gestionequipoweb.tests.dll" id="e2b62915-51a8-a44d-0f7e-1ce8b702a5a7">
+      <Execution id="0b78863c-8562-4d32-a495-e82c6d152d67" />
+      <TestMethod codeBase="F:/UPC/Septimo Ciclo/DSD/AvanceFinal/Avance2/LosRenacidosWeb/GestionEquipoWeb.Tests/bin/Debug/GestionEquipoWeb.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionEquipoWeb.Tests.TestGestion, GestionEquipoWeb.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="asignarAveriaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e2b62915-51a8-a44d-0f7e-1ce8b702a5a7" executionId="0b78863c-8562-4d32-a495-e82c6d152d67" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0b78863c-8562-4d32-a495-e82c6d152d67" testId="e2b62915-51a8-a44d-0f7e-1ce8b702a5a7" testName="asignarAveriaTest" computerName="AGR-AQF130" duration="00:00:00.4364849" startTime="2016-04-09T05:59:59.5829914-05:00" endTime="2016-04-09T06:00:00.1829914-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b78863c-8562-4d32-a495-e82c6d152d67">
+      <Output>
+        <ErrorInfo>
+          <Message>El método de prueba GestionEquipoWeb.Tests.TestGestion.asignarAveriaTest produjo la excepción: 
+System.Net.WebException: Error en el servidor remoto: (500) Error interno del servidor.</Message>
+          <StackTrace>    en System.Net.HttpWebRequest.GetResponse()
+   en GestionEquipoWeb.Tests.TestGestion.asignarAveriaTest() en F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb.Tests\TestGestion.cs:línea 273
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

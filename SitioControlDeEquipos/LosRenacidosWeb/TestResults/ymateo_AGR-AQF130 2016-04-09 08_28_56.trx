@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="43d7f47f-6094-4dbe-a3f1-543144a7ddc6" name="ymateo@AGR-AQF130 2016-04-09 08:28:56" runUser="AGR-DOMAIN\ymateo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configuración de pruebas predeterminada" id="bbca2611-828c-4f00-9f62-38d7f44bb3bf">
+    <Deployment runDeploymentRoot="ymateo_AGR-AQF130 2016-04-09 08_28_56">
+      <DeploymentItem filename="F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\bin\GestionEquipoWeb.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-04-09T08:28:56.2764168-05:00" queuing="2016-04-09T08:28:57.7064188-05:00" start="2016-04-09T08:28:57.7064188-05:00" finish="2016-04-09T08:28:59.0164291-05:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="asignarAveriaTest" storage="f:\upc\septimo ciclo\dsd\avancefinal\avance2\losrenacidosweb\gestionequipoweb.tests\bin\debug\gestionequipoweb.tests.dll" id="e2b62915-51a8-a44d-0f7e-1ce8b702a5a7">
+      <Execution id="3300b779-529f-4b86-b039-b305917cfd55" />
+      <TestMethod codeBase="F:/UPC/Septimo Ciclo/DSD/AvanceFinal/Avance2/LosRenacidosWeb/GestionEquipoWeb.Tests/bin/Debug/GestionEquipoWeb.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="GestionEquipoWeb.Tests.TestGestion, GestionEquipoWeb.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="asignarAveriaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados que no están en la lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e2b62915-51a8-a44d-0f7e-1ce8b702a5a7" executionId="3300b779-529f-4b86-b039-b305917cfd55" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3300b779-529f-4b86-b039-b305917cfd55" testId="e2b62915-51a8-a44d-0f7e-1ce8b702a5a7" testName="asignarAveriaTest" computerName="AGR-AQF130" duration="00:00:01.1159723" startTime="2016-04-09T08:28:57.7164189-05:00" endTime="2016-04-09T08:28:58.9964290-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3300b779-529f-4b86-b039-b305917cfd55">
+    </UnitTestResult>
+  </Results>
+</TestRun>

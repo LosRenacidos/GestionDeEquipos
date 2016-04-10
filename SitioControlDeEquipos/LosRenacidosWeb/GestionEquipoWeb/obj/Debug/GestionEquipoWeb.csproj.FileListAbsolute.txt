@@ -1,0 +1,10 @@
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb\bin\GestionEquipoWeb.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb\bin\GestionEquipoWeb.pdb
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb\obj\Debug\GestionEquipoWeb.csprojResolveAssemblyReference.cache
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb\obj\Debug\GestionEquipoWeb.dll
+F:\ymateo\UPC\Septimo Ciclo\DSD\Avance2\LosRenacidos\GestionEquipoWeb\obj\Debug\GestionEquipoWeb.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\bin\GestionEquipoWeb.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\bin\GestionEquipoWeb.pdb
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\obj\Debug\GestionEquipoWeb.dll
+F:\UPC\Septimo Ciclo\DSD\AvanceFinal\Avance2\LosRenacidosWeb\GestionEquipoWeb\obj\Debug\GestionEquipoWeb.pdb
